@@ -15,3 +15,6 @@ public:
         delete nex;
     }
 };
+
+//TC O(1)
+//SC O(1)
